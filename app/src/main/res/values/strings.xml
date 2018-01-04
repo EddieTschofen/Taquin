@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="personnalPhoto">Gallery</string>
+    <string name="rulesButton">Rules</string>
+    <string name="startButton">Start</string>
+    <string name="quitButton">Quit</string>
+    <string-array name="sizesArray">
+        <item value="3">3x3</item>
+        <item value="4">4x4</item>
+        <item value="5">5x5</item>
+        <item value="6">6x6</item>
+    </string-array>
+    <string-array name="size_values">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="playButton">Play</string>
+    <string name="slctdImg">"Selected Image : "</string>
+    <string name="notSelected">No image selected</string>
+    <string name="noMove">Number of move</string>
+    <string name="youWin">You win !</string>
+    <string name="takePhoto">New picture</string>
+    <string name="restart">Restart</string>
+    <string name="rulesTitle">Taquin\'s rules</string>
+    <string name="objectivs">Goal :</string>
+    <string name="objectivsText">You must put the image back in the right order</string>
+    <string name="rulesText">You can move the tiles by swiping the screen. It will move the tile near the black one. The black one always has to go to the place on the bottom right</string>
+    <string name="displayOriginal">Display full image</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="personnalPhoto">Gallerie</string>
+    <string name="startButton">Jouer</string>
+    <string name="rulesButton">Règles</string>
+    <string name="quitButton">Quitter</string>
+    <string name="playButton">Jouer</string>
+    <string name="slctdImg">"Image sélectionnée : "</string>
+    <string name="notSelected">Pas d\'image sélectionnée</string>
+    <string name="noMove">Nombre de mouvement</string>
+    <string name="youWin">Vous avez gagné !</string>
+    <string name="takePhoto">Nouvelle photo</string>
+    <string name="restart">Recommencer</string>
+    <string name="rulesTitle">Règles du Taquin</string>
+    <string name="objectivs">Objectif :</string>
+    <string name="objectivsText">Vous devez remettre l\'image dans le bon ordre</string>
+    <string name="rulesText">"Vous pouvez bouger les morceau d'image en glissant sur l'écran. Cela bougera l'image la plus proche de l'image manquante. L'image manquante va toujours en bas à droite "</string>
+    <string name="displayOriginal">Afficher image complète</string>
+</resources>
